@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm atakan</h1>
-<h2 align="left">I am from Turkey and ı am Jr Back-End and Front-End Devoloper.</h2>
+<h2 align="left">I am from Turkey and ı am Junior Back-end and Front-end Devoloper.</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atkn_alkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atkn_alkn" height="30" width="40" /></a>
